@@ -20,8 +20,8 @@ highlight PmenuSbar cterm=none ctermbg=228 ctermfg=none
 highlight PmenuThumb cterm=none ctermbg=220 ctermfg=none
 
 highlight VertSplit cterm=none ctermbg=none ctermfg=237
-highlight StatusLine cterm=bold ctermbg=245 ctermfg=255
-highlight StatusLineNC cterm=none ctermbg=245 ctermfg=234
+highlight StatusLine cterm=bold ctermbg=245 ctermfg=234
+highlight StatusLineNC cterm=none ctermbg=245 ctermfg=237
 highlight TabLine cterm=none ctermbg=255 ctermfg=244
 highlight TabLineFill cterm=none ctermbg=255 ctermfg=none
 highlight TabLineSel cterm=bold ctermbg=255 ctermfg=234
