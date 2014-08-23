@@ -32,3 +32,11 @@ highlight ErrorMsg cterm=bold ctermbg=160 ctermfg=255
 highlight SpecialKey cterm=none ctermbg=none ctermfg=236
 
 highlight Comment cterm=none ctermbg=none ctermfg=246
+highlight PreProc cterm=none ctermbg=none ctermfg=33
+highlight Keyword cterm=none ctermbg=none ctermfg=214
+highlight Statement cterm=none ctermbg=none ctermfg=220
+highlight Identifier cterm=none ctermbg=none ctermfg=33
+highlight Function cterm=bold ctermbg=none ctermfg=38
+highlight Type cterm=bold ctermbg=none ctermfg=112
+highlight Constant cterm=none ctermbg=none ctermfg=162
+highlight Special cterm=none ctermbg=none ctermfg=165
