@@ -7,9 +7,9 @@ let g:colors_name = expand('<sfile>:t:r')
 set background=dark
 highlight clear
 
-highlight CursorLine cterm=none ctermbg=240 ctermfg=none
-highlight CursorLineNr cterm=none ctermbg=240 ctermfg=255
-highlight LineNr cterm=none ctermbg=237 ctermfg=245
+highlight CursorLine cterm=none ctermbg=238 ctermfg=none
+highlight CursorLineNr cterm=none ctermbg=238 ctermfg=255
+highlight LineNr cterm=none ctermbg=236 ctermfg=245
 
 highlight Search cterm=bold ctermbg=220 ctermfg=234
 highlight Visual cterm=none ctermbg=228 ctermfg=234
