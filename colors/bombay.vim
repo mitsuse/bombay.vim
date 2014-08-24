@@ -41,3 +41,4 @@ highlight Function cterm=bold ctermbg=none ctermfg=38
 highlight Type cterm=bold ctermbg=none ctermfg=112
 highlight Constant cterm=none ctermbg=none ctermfg=162
 highlight Special cterm=none ctermbg=none ctermfg=165
+highlight Title cterm=none ctermbg=none ctermfg=165
