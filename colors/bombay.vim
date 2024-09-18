@@ -27,6 +27,7 @@ highlight TabLineFill cterm=none ctermbg=255 ctermfg=none
 highlight TabLineSel cterm=bold ctermbg=255 ctermfg=234
 
 highlight Question cterm=bold ctermbg=220 ctermfg=234
+highlight Error cterm=none ctermbg=160 ctermfg=15
 highlight ErrorMsg cterm=bold ctermbg=160 ctermfg=255
 
 highlight SpecialKey cterm=none ctermbg=none ctermfg=236
